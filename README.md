@@ -4,7 +4,7 @@
 - Java Developer
 - System Analyst
 
-📫 felipe@uniarp.edu.br
+📫 felipecmello@outlook.com
 
 
 ![Snake animation](https://github.com/felipe-uniarp/felipe-uniarp/blob/output/github-contribution-grid-snake.svg)
