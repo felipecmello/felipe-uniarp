@@ -1,4 +1,4 @@
-👋 Hi, I’m @FelipeMello:
+👋 Hi, I’m Felipe Mello:
 - C# Developer
 - ASP.NET Developer
 - Java Developer
